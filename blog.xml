@@ -925,16 +925,6 @@ document.write(arlina_thumb_size(&quot;<data:post.thumbnailUrl/>&quot;,&quot;<da
 <div class='addthis_inline_share_toolbox'/>
 </b:if></b:if>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-&lt;div style=&quot;display:block;text-align:center;margin:0 auto;&quot;&gt;
-&lt;!-- Size Auto --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-4708949119445737&quot;
-     data-ad-slot=&quot;8217690318&quot;
-     data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
 <!-- Kode Banner/Iklan Anda Di sini -->
 &lt;/div&gt;
 </b:if>
