@@ -1257,10 +1257,10 @@ var siteurl = window.location.href;
 
 </div>
 <div class='clear'/>
-<footer id='footer-idwrapper' itemscope='itemscope' itemtype='http://schema.org/WPFooter' role='contentinfo'><div class='footer-nav'><ul><li><a href='/p/about.html' title='About Us'>About</a></li><li><a href='/p/contact.html' title='Contact us'>Contact</a></li><li><a href='/p/sitemap.html' title='Our Sitemap'>Sitemap</a></li><li><a href='/p/disclaimer.html' title='Disclaimer'>Disclaimer</a></li><li><a href='/p/privacy-policy.html' title='Privacy Policy'>Privacy Policy</a></li><li><a href='/p/tos' title='Terms of Service'>Terms of Service</a></li></ul></div><div id='footbawah'><div class='maxwrap'><div class='footbawahkiri'>
+<footer id='footer-idwrapper' itemscope='itemscope' itemtype='http://schema.org/WPFooter' role='contentinfo'><div class='footer-nav'><ul><li><a href='/p/about.html' title='About Us'>About</a></li><li><a href='/p/contact.html' title='Contact us'>Contact</a></li><li><a href='/p/sitemap.html' title='Our Sitemap'>Sitemap</a></li><li><a href='/p/disclaimer.html' title='Disclaimer'>Disclaimer</a></li><li><a href='/p/privacy-policy.html' title='Privacy Policy'>Privacy Policy</a></li><li><a href='/p/tos.html' title='Terms of Service'>Terms of Service</a></li></ul></div><div id='footbawah'><div class='maxwrap'><div class='footbawahkiri'>
 Copyright &#169; <span id='current-year'/>
-<a href='/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>Mister Theme</span></a> All Right Reserved</div><div class='footbawahkanan'>
-Template by <a href='https://mrdzgn.blogspot.com' rel='dofollow' target'_blank'>Mister Design</a> - Powered by <a href='https://www.blogger.com/' rel='nofollow' target='_blank' title='Powered by Blogger'>Blogger</a></div></div></div></footer>
+<a href='/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>Ulyrics</span></a> All Right Reserved</div><div class='footbawahkanan'>
+Powered by <a href='https://www.blogger.com/' rel='nofollow' target='_blank' title='Powered by Blogger'>Blogger</a></div></div></div></footer>
 <div class='idnthemetotop hider arlniainf'><i class='fa fa-angle-up'/></div>
 <b:if cond='data:blog.pageType == &quot;error_page&quot;'>
 <div class='container404'>
