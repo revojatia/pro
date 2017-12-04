@@ -71,9 +71,9 @@ body,html{overflow:hidden}.noscript{background:#e74c3c;color:#fff;padding:8% 0 0
 <p>Thank you</p>
 </div>
 </noscript><div class='topper'><div class='maxwrap'><nav id='idntheme-menu' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement'>
-<input type='checkbox'><i aria-hidden='true' class='fa fa-th-list'/> Menu</input><ul id='simplify-click'><li><a href='https://mrdzgn.blogspot.com' itemprop='url' target='_blank'><span itemprop='name'>Blogger Tips</span></a></li><li><a href='/p/contact.html' itemprop='url'><span itemprop='name'>Contact</span></a></li><li><a href='/p/disclaimer.html' itemprop='url'><span itemprop='name'>Disclaimer</span></a></li><li><a href='/p/sitemap.html' itemprop='url'><span itemprop='name'>Sitemap</span></a></li><li><a href='/p/submit-template.html' itemprop='url'><span itemprop='name'>Submit Template</span></a></li></ul></nav>
+<input type='checkbox'><i aria-hidden='true' class='fa fa-th-list'/> Menu</input><ul id='simplify-click'><li><a href='http://ulyrics.tk' itemprop='url' target='_blank'><span itemprop='name'>Home</span></a></li><li><a href='/p/contact.html' itemprop='url'><span itemprop='name'>Contact Us</span></a></li><li><a href='/p/disclaimer.html' itemprop='url'><span itemprop='name'>Disclaimer</span></a></li><li><a href='/p/sitemap.html' itemprop='url'><span itemprop='name'>Sitemap</span></a></li><li><a href='/p/privacy-policy.html' itemprop='url'><span itemprop='name'>Privacy Policy</span></a></li></ul></nav>
 <form action='/search' id='search-usmob' method='get'><table><tbody><tr><td class='search-boxdesk1'>
-<input id='search-boxdesk1' name='q' onblur='if(this.value==&apos;&apos;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&apos;&apos;;' type='text' value='Search article...'/>
+<input id='search-boxdesk1' name='q' onblur='if(this.value==&apos;&apos;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&apos;&apos;;' type='text' value='Cari Disini...'/>
 <input name='max-results' type='hidden' value='8'/></td>
 <td class='search-button1'>
 <input id='search-button1' type='submit' value='?'/></td></tr></tbody></table></form></div></div>
